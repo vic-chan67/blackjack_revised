@@ -1,6 +1,6 @@
 ## Introduction
 
-The original blackjack project was missing one very key feature which I chose not to implement. This time I wish to implement the feature whilst making small changes to the original code so it’s simpler and easier to understand.
+Blackjack is a betting game where the player is only playing against the dealer and not other players. To play the player must make a bet.
 
 ## Game summarised
 
